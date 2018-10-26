@@ -1,2 +1,2 @@
 # HacktoberFest2018
-HacktoberFest'e katılmak isteyenler için hazırlanmış basit görevler.
+HacktoberFest'e katılmayıp tişörtü alıp gitmek isteyenler için hazırlanmış basit görevler.
