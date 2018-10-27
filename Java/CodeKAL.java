@@ -5,8 +5,8 @@ public class CodeKal {
 		// Aşağıdaki cümleleri ingilizceye çeviriniz.(Noktalama işaretlerinin Java için 
 		// özel anlamları var. Çevirirken silmeyiniz.)
 
-		System.out.println("CodeKAL'ı çok seviyorum.");
-		System.out.println("CodeKAL'da olduğum için çok mutluyum.");
+		System.out.println("I love CodeKAL.");
+		System.out.println("I'm happy that I'm in CodeKAL.");
 
 	}
 
