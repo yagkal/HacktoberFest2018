@@ -46,6 +46,9 @@ public class TemelBilgiler {
 		// İki tane sayı girdisi aslınız ve dört işlemi yapınız.
 
 		// Dört işlem yaptıktan sonra System.out.println(); ile çıktılarını alınız.
+		
+		
+		scn.close();
 	}
 
 }
